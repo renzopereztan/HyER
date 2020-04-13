@@ -1,6 +1,6 @@
 # HyER
 
-This is a study on hybrid algorithms for experience replay in reinforcement learning.
+This is a study on hybrid algorithms for experience replay in foundational reinforcement learning.
 
 The folder Algorithms contains the three reinforcement learning algorithms employed in the study. These are the Deep Q-Network, Deep Deterministic Policy Gradient, and the Advantage Actor-Critic.
 
